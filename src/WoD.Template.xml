@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<WorkOrder xmlns="http://Icod.Wod" xsi:schemaLocation="http://Icod.Wod \\Jcb-App\Icod.Wod\schema0.xsd"
+<WorkOrder xmlns="http://Icod.Wod" xsi:schemaLocation="http://Icod.Wod https://raw.githubusercontent.com/uniblab/Icod.Wod/master/schema0.xsd"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	jobName="$safeitemname$"
 	emailTo="$username$@$userdomain$"
@@ -8,6 +8,6 @@
 	<variables />
 
 	<steps>
-
 	</steps>
+
 </WorkOrder>
